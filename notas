@@ -1,0 +1,6 @@
+
+cd c:/xampp/htdocs/proyecto_yii2_php/thebookclub/local
+variables_local.bat
+
+set nombre
+echo %db_name%
